@@ -1,0 +1,6 @@
+{
+  "name": "Temple Ease",
+  "description": "Smart Temple Information & Visitor Assistance System - Digital portal for pilgrim schedules, sevas, facilities, parking, navigation, and emergency help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
